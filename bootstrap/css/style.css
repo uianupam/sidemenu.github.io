@@ -1,0 +1,35 @@
+/*------------------------------Custom Styles-------------------------*/
+.btn-info , .bg-info{
+    background: linear-gradient(45deg,darkcyan,lightskyblue);
+}
+
+.btn-primary , .bg-primary{
+    background: linear-gradient(45deg,black,blueviolet);
+}
+
+.btn-secondary , .bg-secondary{
+    background: linear-gradient(45deg,darkslategrey,purple);
+}
+
+.btn-success , .bg-success{
+    background: linear-gradient(45deg,black,limegreen);
+}
+
+.btn-warning , .bg-warning{
+    background: linear-gradient(45deg,black,orange);
+}
+
+.btn-danger , .bg-danger{
+    background: linear-gradient(45deg,black,red);
+}
+
+.btn-dark , .bg-dark{
+    background: linear-gradient(45deg,darkslategrey,black);
+}
+
+.btn-light , .bg-light{
+    background: linear-gradient(45deg,grey,whitesmoke);
+}
+
+
+
